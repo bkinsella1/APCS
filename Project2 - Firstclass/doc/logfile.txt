@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_60\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;H:\Project2 - Firstclass
+-d
+H:\Project2 - Firstclass\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\Project2 - Firstclass\Firstclassrunner.java
+<---- end of javadoc command ---->
+Loading source file H:\Project2 - Firstclass\Firstclassrunner.java...
+H:\Project2 - Firstclass\Firstclassrunner.java:11: error: ';' expected
+    public static void main(string[]args)(
+                                         ^
+1 error
